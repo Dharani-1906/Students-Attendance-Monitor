@@ -41,6 +41,12 @@ Through this project, I improved my understanding of:
 - Add date-wise and department-wise reports
 - Develop a web-based version
 
+## 📸 Screenshots
+
+### Attendance Dashboard
+
+![Attendance Dashboard](IMG-20250731-WA0038.jpg)
+
 ## 👩‍💻 Developed By
 
 **Dharani K**  
